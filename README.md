@@ -1,26 +1,11 @@
-# 🎲 Rotating Cube - React Three Fiber
+# Project Index
 
-A simple **3D rotating cube** built using **@react-three/fiber** and **Three.js**. The cube rotates along the X and Y axes with a smooth animation, utilizing `meshNormalMaterial` for a colorful shading effect.
+Github Link: https://github.com/develop-build/threejs-war
 
-## 🚀 Live Demo  
-🔗 **[View Live Project](https://rotating-cube-normalmaterial.netlify.app/)**  
-
-## 📹 Preview  
-🎥 Watch the rotating cube in action:  
-[![Rotating Cube](https://img.youtube.com/vi/VTg0CbzA2rA/0.jpg)](https://youtu.be/VTg0CbzA2rA)
-
-## 🛠 Tech Stack  
-✅ **React** (`18.x`)  
-✅ **@react-three/fiber** - React renderer for Three.js  
-✅ **@react-three/drei** - Useful helpers for Three.js  
-✅ **Three.js** - WebGL-powered 3D graphics  
-
-## 📦 Installation  
-
-Clone the repository and install dependencies:
-
-```sh
-git clone https://github.com/develop-build/threejs-war.git
-cd rotating-cube
-npm install
-npm run dev
+| Serial No. | Project Name     | Project Link                                              |
+| ---------- | ---------------- | --------------------------------------------------------- |
+| 1          | rotating-cube    | [rotate-cube](https://rotate-cube.netlify.app/)           |
+| 2          | interactive-cube | [interactive-cube](https://cube-interact.netlify.app/)    |
+| 3          | spinning-sphere  | [spinning-sphere](https://spinning-sphere.netlify.app/)   |
+| 4          | 3D-floor         | [3d-floor](https://3d-floor.netlify.app/)                 |
+| 5          | OrbitControls    | [OrbitControls](https://three-orbitcontrols.netlify.app/) |

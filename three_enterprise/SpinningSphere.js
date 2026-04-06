@@ -35,6 +35,7 @@ scene.add(ambientLight);
 function animate() {
   requestAnimationFrame(animate);
   sphere.rotation.y += 0.01;
+  sphere.position.y = Math.sin(Date.now() * 0.002) * 0.5;
   renderer.render(scene, camera);
 }
 

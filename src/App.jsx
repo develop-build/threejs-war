@@ -1,11 +1,9 @@
-import InteractiveCube from './InteractiveCube';
-
 const App = () => {
   return (
     <>
-      {/* <RotatingCube />; */}
+      {/* <RotatingCube /> */}
       {/* <SpinningSphere /> */}
-      <InteractiveCube />
+      {/* <InteractiveCube /> */}
     </>
   );
 };
